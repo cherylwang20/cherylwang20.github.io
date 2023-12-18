@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a candidate student at [McGill University](https://www.mcgill.ca/)
+I am currently a Ph.D. student at [McGill University](https://www.mcgill.ca/) in the Department of Mechanical Engineering under the supervision of Prof. [Guillaume Durandau](https://www.mcgill.ca/mecheng/guillaume-durandau) and Prof. [Jozsef Kovecses](https://www.mcgill.ca/mecheng/jozsef-kovecses).
+
+Previously, I obtained a M.Sc in Physics at Trottier Space Institute [(TSI)](https://tsi.mcgill.ca/) with Prof. [Nicolas Cowan](https://www.physics.mcgill.ca/~cowan/) and Prof. [Eve J. Lee](https://www.physics.mcgill.ca/~evelee/). I completed a B.S with College Honors and Departmental Highest Honors at the University of California at Los Angeles [(UCLA)](https://www.ucla.edu/) with Prof. [Smadar Naoz](https://www.astro.ucla.edu/~snaoz/).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
