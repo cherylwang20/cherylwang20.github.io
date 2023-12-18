@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>MD 459</p>
+    <p>817 Sherbrooke St W</p>
+    <p>Montreal, Quebec, H3A 0C3</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -23,7 +23,7 @@ I am currently a Ph.D. student at [McGill University](https://www.mcgill.ca/) in
 
 Previously, I obtained a M.Sc in Physics at Trottier Space Institute [(TSI)](https://tsi.mcgill.ca/) with Prof. [Nicolas Cowan](https://www.physics.mcgill.ca/~cowan/) and Prof. [Eve J. Lee](https://www.physics.mcgill.ca/~evelee/). I completed a B.S with College Honors and Departmental Highest Honors at the University of California at Los Angeles [(UCLA)](https://www.ucla.edu/) with Prof. [Smadar Naoz](https://www.astro.ucla.edu/~snaoz/).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
