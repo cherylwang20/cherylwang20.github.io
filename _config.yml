@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Huiyii (Cheryl)
+first_name: Huiyi (Cheryl)
 middle_name:
 last_name: Wang
 email: huiyi.wang@mail.mcgill.ca
@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username:cherylwang20 # your GitHub user name
+github_username: cherylwang20 # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -174,7 +174,7 @@ collections:
     permalink: /projects/:path/
 
 announcements:
-  enabled: False
+  enabled: True
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
