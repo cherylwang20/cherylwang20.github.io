@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-MyoChallenge Workshop @NeuroIPS in New Orleans.
+MyoChallenge Workshop NeurIPS 2023 in New Orleans.
