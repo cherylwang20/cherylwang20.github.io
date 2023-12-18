@@ -9,7 +9,7 @@ last_name: Wang
 email: huiyi.wang@mail.mcgill.ca
 LinkedIn: linkedin.com/in/huiyi-wang-a28a08b6
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  an academic research page for Huiyi Wang
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -72,7 +72,7 @@ github_username: cherylwang20 # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: Huiyi (Cheryl) Wang # your LinkedIn user name
+linkedin_username: huiyi-wang-a28a08b6 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
