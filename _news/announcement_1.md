@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I graduated as a M.Sc in McGill, Physics and join the Department of Engineering at McGill
+I graduated as a M.Sc in McGill, Physics and joined the Department of Engineering at McGill.
