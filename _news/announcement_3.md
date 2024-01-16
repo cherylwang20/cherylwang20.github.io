@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-MyoChallenge Workshop NeurIPS 2023 in New Orleans.
+MyoChallenge Workshop ([MyoSymposium'23](https://sites.google.com/view/myosuite/myosymposium/neurips23)) NeurIPS 2023 in New Orleans.
