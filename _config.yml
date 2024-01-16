@@ -170,7 +170,7 @@ collections:
     output: false
     permalink: /news/:path/
   projects:
-    output: false
+    output: attributes
     permalink: /projects/:path/
 
 announcements:
