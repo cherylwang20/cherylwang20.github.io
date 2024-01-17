@@ -1,25 +1,16 @@
 ---
 layout: page
-title: RL Controller for Standing Balance
+title: reinforcement Learning Controller for Lower Limb Standing Balance
 description: Using the MyoSuite as the Musculoskeletal Simulation and RL controller trained using PPO policy, we train the agent to maintain balance under a perturbed external force.
-img: assets/img/12.jpg
+img: assets/img/project_1.jpg
 importance: 1
 category: ME
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Sarcopenia is affecting more than
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+We use PPO to train the MyoSuite Lowerlimb body.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
