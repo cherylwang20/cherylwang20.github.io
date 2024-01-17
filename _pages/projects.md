@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: See my ongoing Ph.D. work at McGill.
+description: See my ongoing Ph.D. work.
 nav: true
-nav_order: 1
-display_categories: [Mechanical_Engineering, Physics]
+nav_order: 3
+display_categories: [ME, Physics]
 horizontal: false
 ---
 

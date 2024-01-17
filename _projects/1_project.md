@@ -4,7 +4,7 @@ title: RL Controller for Standing Balance
 description: Using the MyoSuite as the Musculoskeletal Simulation and RL controller trained using PPO policy, we train the agent to maintain balance under a perturbed external force.
 img: assets/img/12.jpg
 importance: 1
-category: Mechanical_Engineering
+category: ME
 related_publications: false
 ---
 
