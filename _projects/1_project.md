@@ -14,7 +14,7 @@ The purpose of this study is to understanding if reinforcement learning can repr
 MyoLeg is a lower limb musculoskeletal model powered by MyoSuite that allows for 80 muscle-tendon units and 20 DoFs.
 
 <div class="row">
-    <div class="col-sm-3 mx-auto">
+    <div class="col-sm-3 offset-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/front.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
