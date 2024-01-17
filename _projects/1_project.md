@@ -12,12 +12,12 @@ Using the MyoSuite as the Musculoskeletal Simulation and RL controller trained u
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/front.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/front.jpg" title="example image" class="img-fluid rounded z-depth-1"style="height: 200px;" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/back.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/back.jpg" title="example image" class="img-fluid rounded z-depth-1" style="height: 200px;" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    MyoLeg powered by MyoSuite, with 10 joints, 20 DoFs, and 80 muscles-tendon units (front & left)
 </div>
