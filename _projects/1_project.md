@@ -8,7 +8,11 @@ category: Mechanical Engineering
 related_publications: true
 ---
 
-Using the MyoSuite as the Musculoskeletal Simulation and RL controller trained using PPO policy, we train the agent to maintain balance under a perturbed external force.
+
+The purpose of this study is to understanding if reinforcement learning can reproduce motions of human standing balance under sarcopenia condition. We proposed that under sarcopenia condition, baseline stability policy would lead to higher falling rates and shorter standing time under perturbation than in healthy subject.
+
+
+Using the MyoSuite as the Musculoskeletal Simulation and RL controller trained using PPO policy, we train the agent to maintain balance under a perturbed external force between 0 - 50N.
 
 MyoLeg is a lower limb musculoskeletal model powered by MyoSuite that allows for 80 muscle-tendon units and 20 DoFs.
 
