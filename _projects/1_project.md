@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reinforcement Learning Controller for Lower Limb Standing Balance
-description: Using the MyoSuite as the Musculoskeletal Simulation and RL controller trained using PPO policy, we train the agent to maintain balance under a perturbed external force.
+title: MyoSuite-Project1
+description: Reinforcement Learning Controller for Lower Limb Standing Balance
 img: assets/img/project_1.jpg
 importance: 1
 category: Mechanical Engineering
@@ -10,7 +10,7 @@ related_publications: true
 
 Sarcopenia is affecting more than
 
-We use PPO to train the MyoSuite Lowerlimb body.
+Using the MyoSuite as the Musculoskeletal Simulation and RL controller trained using PPO policy, we train the agent to maintain balance under a perturbed external force.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
