@@ -8,6 +8,4 @@ category: Mechanical Engineering
 related_publications: true
 ---
 
-Sarcopenia is affecting more than
-
 Using the MyoSuite as the Musculoskeletal Simulation and RL controller trained using PPO policy, we train the agent to maintain balance under a perturbed external force.

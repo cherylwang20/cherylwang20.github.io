@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: See my ongoing Ph.D. work.
+description: See my ongoing Ph.D. work and past projects in Physics.
 nav: true
 nav_order: 3
 display_categories: [Mechanical Engineering, Physics]
