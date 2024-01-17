@@ -1,6 +1,6 @@
 ---
 layout: page
-title: reinforcement Learning Controller for Lower Limb Standing Balance
+title: Reinforcement Learning Controller for Lower Limb Standing Balance
 description: Using the MyoSuite as the Musculoskeletal Simulation and RL controller trained using PPO policy, we train the agent to maintain balance under a perturbed external force.
 img: assets/img/project_1.jpg
 importance: 1
