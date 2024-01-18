@@ -8,15 +8,15 @@ category: Mechanical Engineering
 related_publications: true
 ---
 <div class="row justify-content-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <video class="img-fluid rounded z-depth-1" controls>
-            <source src="assets/img/Healthy_AP_30N.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+    <div class="col-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Healthy_AP_30N.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/back.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption text-center">
-    Healthy agent undergoing 30N of Anterior-Posterior Perturbations.
+<div class="caption">
+    MyoLeg undergoing perturbation in the AP direction in healthy (left) and sarcopenia (right) cases.
 </div>
 
 
