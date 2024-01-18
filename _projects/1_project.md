@@ -8,10 +8,10 @@ category: Mechanical Engineering
 related_publications: true
 ---
 <div class="row justify-content-center">
-    <div class="col-4.5 mt-3 mt-md-0">
+    <div class="col-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Healthy_AP_30N.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-4.5 mt-3 mt-md-0">
+    <div class="col-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Sarco_AP_30N.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
