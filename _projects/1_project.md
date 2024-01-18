@@ -7,6 +7,19 @@ importance: 1
 category: Mechanical Engineering
 related_publications: true
 ---
+Fall-related injuries due to loss of balance are detrimental to the health, independence, and quality of life among the elders (e.g. hip fractures, traumatic brain injuries). The issue is highlighted by the onset of sarcopenia in the lower limbs, an age-related condition of muscle loss that heightens the risk of falls. Our research aims to quantify the impact of sarcopenia on an individual's ability to remain stable under perturbation during bipedal stance through the advanced musculoskeletal simulation, MyoSuite.
+
+<div class="row justify-content-center">
+    <div class="col-auto-3 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/fall.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-auto-3 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sarco.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Sarcopenia condition: decrease in muscle volume and coordination due to aging contributes to falling.
+</div>
 
 
 The purpose of this study is to understanding if reinforcement learning can reproduce motions of human standing balance under sarcopenia condition. We proposed that under sarcopenia condition, baseline stability policy would lead to higher falling rates and shorter standing time under perturbation than in healthy subject.
