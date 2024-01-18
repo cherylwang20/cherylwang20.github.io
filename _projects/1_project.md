@@ -7,13 +7,23 @@ importance: 1
 category: Mechanical Engineering
 related_publications: true
 ---
+<div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include video.liquid path="assets/img/Healthy_AP_30N.mp4" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Healthy agent undergoing 30N of Anterior-Posterior Perturbations.
+</div>
+
+
 Fall-related injuries due to loss of balance are detrimental to the health, independence, and quality of life among the elders (e.g. hip fractures, traumatic brain injuries). The issue is highlighted by the onset of sarcopenia in the lower limbs, an age-related condition of muscle loss that heightens the risk of falls. Our research aims to quantify the impact of sarcopenia on an individual's ability to remain stable under perturbation during bipedal stance through the advanced musculoskeletal simulation, MyoSuite.
 
 <div class="row justify-content-center">
-    <div class="col-sm-2 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/fall.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/sarco.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
