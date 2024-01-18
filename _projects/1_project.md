@@ -9,12 +9,10 @@ related_publications: true
 ---
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <div class="embed-responsive embed-responsive-16by9">
-            <video class="embed-responsive-item" controls>
-                <source src="assets/img/Healthy_AP_30N.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-        </div>
+        <video class="img-fluid rounded z-depth-1" controls>
+            <source src="assets/img/Healthy_AP_30N.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
     </div>
 </div>
 <div class="caption text-center">
