@@ -9,10 +9,15 @@ related_publications: true
 ---
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/Healthy_AP_30N.mp4" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="embed-responsive embed-responsive-16by9">
+            <video class="embed-responsive-item" controls>
+                <source src="assets/img/Healthy_AP_30N.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
     </div>
 </div>
-<div class="caption">
+<div class="caption text-center">
     Healthy agent undergoing 30N of Anterior-Posterior Perturbations.
 </div>
 
@@ -52,7 +57,7 @@ We employ the Proximal Policy Optimization (PPO) algorithm to train the model ac
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/PPO_Flow.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/PPO_Flow.jpg" title="example image" class="img-fluid rounded" %}
     </div>
 </div>
 <div class="caption">
