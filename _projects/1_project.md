@@ -10,7 +10,7 @@ related_publications: true
 Fall-related injuries due to loss of balance are detrimental to the health, independence, and quality of life among the elders (e.g. hip fractures, traumatic brain injuries). The issue is highlighted by the onset of sarcopenia in the lower limbs, an age-related condition of muscle loss that heightens the risk of falls. Our research aims to quantify the impact of sarcopenia on an individual's ability to remain stable under perturbation during bipedal stance through the advanced musculoskeletal simulation, MyoSuite.
 
 <div class="row justify-content-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/fall.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -46,5 +46,5 @@ We employ the Proximal Policy Optimization (PPO) algorithm to train the model ac
     </div>
 </div>
 <div class="caption">
-    MyoLeg powered by MyoSuite, with 10 joints, 20 DoFs, and 80 muscles-tendon units (front & left)
+    General framework for training the lower limb agent to maintain balance.
 </div>
