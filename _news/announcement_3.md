@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-16 07:59:00-0400
+date: 2024-07-25 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-MyoChallenge Workshop ([MyoSymposium'23](https://sites.google.com/view/myosuite/myosymposium/neurips23)) NeurIPS 2023 in New Orleans.
+MyoChallenge '24 is officially release! Come check out the [tutorials and baselines](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024) and compete to win the challenge. 
