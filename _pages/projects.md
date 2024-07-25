@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: See my ongoing Ph.D. work and past projects in Physics.
+description: See my ongoing work in Robotics, AI for Science, Biomechanics, and more!
 nav: true
 nav_order: 3
-display_categories: [Mechanical Engineering, Physics]
+display_categories: [MyoSuite, RL Chemist, Physics]
 horizontal: false
 ---
 
