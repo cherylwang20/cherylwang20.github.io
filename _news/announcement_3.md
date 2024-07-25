@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-MyoChallenge '24 is officially release! Come check out the [tutorials and baselines](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024) and compete to win the challenge. 
+MyoChallenge '24 is officially released! Come check out the [tutorials and baselines](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024) and compete to win the challenge. 

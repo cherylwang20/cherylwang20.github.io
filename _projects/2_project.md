@@ -17,7 +17,7 @@ In this project, we are interested in developing a controller for UR10e robotics
         {% include figure.liquid path="assets/img/rl-chemist2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/rl-chemist2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/rl-chemist3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
