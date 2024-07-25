@@ -4,7 +4,7 @@ title: GW Signals
 description: Gravitational Wave Signals from the Center of the Galaxy
 img: assets/img/EKL.jpg
 importance: 2
-category: Physics
+category: Astrophysics
 related_publications: true
 ---
 

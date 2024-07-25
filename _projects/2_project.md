@@ -8,4 +8,4 @@ category: RL Chemist
 related_publications: true
 ---
 
-In this project, we are interested in developing a controller for
+In this project, we are interested in developing a controller for UR10e robotics arm relying on vision based reinforcement learning to achieve simple pick & place tasks. 
