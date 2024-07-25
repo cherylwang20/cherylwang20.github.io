@@ -4,7 +4,7 @@ title: MyoSuite-Project1
 description: Reinforcement Learning Controller for Lower Limb Standing Balance
 img: assets/img/project_1.jpg
 importance: 1
-category: Mechanical Engineering
+category: MyoSuite
 related_publications: true
 ---
 <div class="row justify-content-center">
