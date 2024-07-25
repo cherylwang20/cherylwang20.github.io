@@ -43,12 +43,12 @@ MyoLeg is a lower limb musculoskeletal model powered by MyoSuite that allows for
     <div class="col-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/fp.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-4 mt-3 mt-md-0">
+    <div class="col-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Sarc_front_video.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: MyoLeg on a forceplate, trying to balance. Right: A sarcopenia agent choosing between standing and stepping.
+    Top: MyoLeg on a forceplate, trying to balance. Bottom: A sarcopenia agent choosing between standing and stepping.
 </div>
 
 We employ the Proximal Policy Optimization (PPO) algorithm to train the model across both healthy and sarcopenic muscle. The PPO uses a two-hidden-layer neural network with 256 neurons and a ReLU activation function. Our reward function consists of minimizing the metabolic cost, maintaining the agent’s center of mass (CoM) within the base of support (BoS), and minimizing the pelvis position error.
