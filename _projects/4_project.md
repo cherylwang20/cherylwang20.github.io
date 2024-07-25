@@ -12,7 +12,7 @@ This year's [MyoChallenge](https://sites.google.com/view/myosuite/myochallenge/m
 
 <div class="row justify-content-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/myochal_mani" title="example image" class="img-fluid rounded" %}
+        {% include figure.liquid path="assets/img/myochal_mani.gif" title="example image" class="img-fluid rounded" %}
     </div>
 </div>
 <div class="caption">
