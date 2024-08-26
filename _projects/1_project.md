@@ -7,6 +7,9 @@ importance: 1
 category: MyoSuite
 related_publications: true
 ---
+
+This project is selected for an oral presentation at the [Canadian Society of Biomechanics (CSB)](https://www.csb-scb-conference.com/) 2024 at the Balance and Perturbation Session. 
+
 <div class="row justify-content-center">
     <div class="col-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Healthy_AP_30N.gif" title="example image" class="img-fluid rounded z-depth-1" %}
