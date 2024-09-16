@@ -10,6 +10,8 @@ related_publications: true
 
 This year's [MyoChallenge](https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024) focuses on Physiological Dexterity and Agility in Bionic Humans. As part of the manipulation team, we develope an environment within MuJoCo that allows participants to use any controlling methods to perform a pass and place task of a gelatin box with MyoArm and a Modular Prosthetic Limb ([MPL](https://robotsguide.com/robots/mpl)). 
 
+The open source project can be found here: (https://github.com/MyoHub/myosuite)
+
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/myochal_mani.gif" title="example image" class="img-fluid rounded" %}
