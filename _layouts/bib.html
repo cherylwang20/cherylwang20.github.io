@@ -28,16 +28,16 @@
         {%- endif -%}
         </div>
         {%- endif -%}
-      {% for publication in site.data.publications %}
-        <div class="publication">
-          <h2>{{ publication.title }}</h2>
-          <p>By {{ publication.author }}</p>
-          <p>Published in {{ publication.year }}</p>
-          {% if publication.preview %}
-            <img src="{{ site.baseurl }}/{{ publication.preview }}" alt="Preview image for {{ publication.title }}">
+        {% if entry.preview %}
+        <div class="teaser">
+          {% if entry.preview contains '://' %}
+            <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+          {% else %}
+            {% assign entry_path = entry.preview | prepend: 'assets/teaser/' %}
+            <img src="{{ entry_path }}" class="z-depth-1">
           {% endif %}
         </div>
-      {% endfor %}
+      {% endif %}
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
         <!-- Title -->
