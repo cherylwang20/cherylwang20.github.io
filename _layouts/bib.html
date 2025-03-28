@@ -8,7 +8,7 @@
           {% if entry.preview contains '://' -%}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
           {%- else -%}
-            {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
+            {%- assign entry_path = entry.preview | prepend: '/assets/teaser/' -%}
             {% include figure.html
             path=entry_path
             class="preview z-depth-1 rounded"
@@ -28,16 +28,7 @@
         {%- endif -%}
         </div>
         {%- endif -%}
-        {% if entry.preview %}
-        <div class="teaser">
-          {% if entry.preview contains '://' %}
-            <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
-          {% else %}
-            {% assign entry_path = entry.preview | prepend: 'assets/teaser/' %}
-            <img src="{{ entry_path }}" class="z-depth-1">
-          {% endif %}
-        </div>
-      {% endif %}
+
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
         <!-- Title -->
