@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: See my ongoing work in Robotics, AI for Science, Biomechanics, and more!
-nav: true
+nav: false
 nav_order: 3
 display_categories: [MyoSuite, RL Chemist, Astrophysics]
 horizontal: false
