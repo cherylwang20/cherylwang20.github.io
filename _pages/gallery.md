@@ -50,13 +50,10 @@ A few moments from the lab and from the road.
 ### NeurIPS
 
 <div class="row mt-2 gallery-row-equal">
-    <div class="col-md-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gallery/NEURIPS_group.JPG" class="img-fluid z-depth-1" zoomable=true alt="NeurIPS" caption="NeurIPS" %}
-    </div>
-    <div class="col-md-4 mt-3 mt-md-0">
+    <div class="col-md-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gallery/NEURIPS_present.jpg" class="img-fluid z-depth-1" zoomable=true alt="Presenting at NeurIPS" caption="Presenting at NeurIPS" %}
     </div>
-    <div class="col-md-4 mt-3 mt-md-0">
+    <div class="col-md-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gallery/NEURIPS_myosuite.PNG" class="img-fluid z-depth-1" zoomable=true alt="MyoSuite at NeurIPS" caption="MyoSuite at NeurIPS" %}
     </div>
 </div>
@@ -84,7 +81,7 @@ A few moments from the lab and from the road.
 
 <div class="row mt-3 gallery-row-equal">
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gallery/EPFL.jpg" class="img-fluid z-depth-1" zoomable=true alt="Internship at EPFL" caption="EPFL" %}
+        {% include figure.html path="assets/img/gallery/NEURIPS_group.JPG" class="img-fluid z-depth-1" zoomable=true alt="Internship at EPFL" caption="EPFL" %}
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gallery/NRC_intern.JPG" class="img-fluid z-depth-1" zoomable=true alt="Internship at the NRC" caption="National Research Council Canada" %}
