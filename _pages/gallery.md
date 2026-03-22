@@ -2,7 +2,8 @@
 layout: page
 title: Gallery
 permalink: /gallery/
-description: Snapshots with my research group and from conferences and travel.
+description: Across the years, I have the privilege to work with various great research group across the world. Here are a few snapshots of me on the road, as well as back home in Montreal, Canada.
+
 nav: true
 nav_order: 2
 ---
@@ -35,26 +36,25 @@ nav_order: 2
   }
 </style>
 
-A few moments from the lab and from the road.
 
 ## Group pictures
 
 <div class="row mt-3 gallery-hero">
     <div class="col-12">
-        {% include figure.html path="assets/img/gallery/Jozsef_group.JPG" class="img-fluid z-depth-1" zoomable=true alt="Research group with Jozsef Kovecses" caption="With Jozsef Kovecses" %}
+        {% include figure.html path="assets/img/gallery/Jozsef_group.JPG" class="img-fluid z-depth-1" zoomable=true alt="Research group with Jozsef Kovecses" caption="Jozsef Kovecses Group" %}
     </div>
 </div>
 
 ## Conference
 
-### NeurIPS
+### NeurIPS - 2025
 
 <div class="row mt-2 gallery-row-equal">
     <div class="col-md-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gallery/NEURIPS_present.jpg" class="img-fluid z-depth-1" zoomable=true alt="Presenting at NeurIPS" caption="Presenting at NeurIPS" %}
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gallery/NEURIPS_myosuite.PNG" class="img-fluid z-depth-1" zoomable=true alt="MyoSuite at NeurIPS" caption="MyoSuite at NeurIPS" %}
+        {% include figure.html path="assets/img/gallery/NEURIPS_myosuite.PNG" class="img-fluid z-depth-1" zoomable=true alt="MyoSuite at NeurIPS" caption="Post-MyoSymposium at NeurIPS" %}
     </div>
 </div>
 
@@ -62,10 +62,10 @@ A few moments from the lab and from the road.
 
 <div class="row mt-2 gallery-row-equal">
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gallery/ICORR_group.JPG" class="img-fluid z-depth-1" zoomable=true alt="Group at ICORR" caption="Group at ICORR" %}
+        {% include figure.html path="assets/img/gallery/ICORR_group.JPG" class="img-fluid z-depth-1" zoomable=true alt="MyoAssist Group at ICORR" caption="Group at ICORR" %}
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gallery/ICORR_present.JPG" class="img-fluid z-depth-1" zoomable=true alt="Presenting at ICORR" caption="Presenting at ICORR" %}
+        {% include figure.html path="assets/img/gallery/ICORR_present.JPG" class="img-fluid z-depth-1" zoomable=true alt="Presenting at ICORR" caption="MyoBack at ICORR" %}
     </div>
 </div>
 
@@ -73,7 +73,7 @@ A few moments from the lab and from the road.
 
 <div class="row mt-3 gallery-summer">
     <div class="col-12 col-lg-10 mx-auto">
-        {% include figure.html path="assets/img/gallery/UBC_group.jpg" class="img-fluid z-depth-1" zoomable=true alt="Summer school at UBC" caption="Summer school at UBC" %}
+        {% include figure.html path="assets/img/gallery/UBC_group.jpg" class="img-fluid z-depth-1" zoomable=true alt="Summer school at UBC" caption="Winning Team of UBC Presentation" %}
     </div>
 </div>
 
@@ -81,9 +81,9 @@ A few moments from the lab and from the road.
 
 <div class="row mt-3 gallery-row-equal">
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gallery/NEURIPS_group.JPG" class="img-fluid z-depth-1" zoomable=true alt="Internship at EPFL" caption="EPFL" %}
+        {% include figure.html path="assets/img/gallery/NEURIPS_group.JPG" class="img-fluid z-depth-1" zoomable=true alt="Fav group at EPFL" caption="EPFL" %}
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gallery/NRC_intern.JPG" class="img-fluid z-depth-1" zoomable=true alt="Internship at the NRC" caption="National Research Council Canada" %}
+        {% include figure.html path="assets/img/gallery/NRC_intern.JPG" class="img-fluid z-depth-1" zoomable=true alt="Internship at the NRC" caption="With Professor Bellinger during my NRC internship" %}
     </div>
 </div>
