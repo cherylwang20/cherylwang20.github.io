@@ -65,7 +65,7 @@ A few moments from the lab and from the road.
 
 <div class="row mt-2 gallery-row-equal">
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gallery/ICORR_group.jpg" class="img-fluid z-depth-1" zoomable=true alt="Group at ICORR" caption="Group at ICORR" %}
+        {% include figure.html path="assets/img/gallery/ICORR_group.JPG" class="img-fluid z-depth-1" zoomable=true alt="Group at ICORR" caption="Group at ICORR" %}
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gallery/ICORR_present.JPG" class="img-fluid z-depth-1" zoomable=true alt="Presenting at ICORR" caption="Presenting at ICORR" %}
@@ -76,7 +76,7 @@ A few moments from the lab and from the road.
 
 <div class="row mt-3 gallery-summer">
     <div class="col-12 col-lg-10 mx-auto">
-        {% include figure.html path="assets/img/gallery/UBC_Group.jpg" class="img-fluid z-depth-1" zoomable=true alt="Summer school at UBC" caption="Summer school at UBC" %}
+        {% include figure.html path="assets/img/gallery/UBC_group.jpg" class="img-fluid z-depth-1" zoomable=true alt="Summer school at UBC" caption="Summer school at UBC" %}
     </div>
 </div>
 
@@ -87,6 +87,6 @@ A few moments from the lab and from the road.
         {% include figure.html path="assets/img/gallery/EPFL.jpg" class="img-fluid z-depth-1" zoomable=true alt="Internship at EPFL" caption="EPFL" %}
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gallery/NRC_intern.jpg" class="img-fluid z-depth-1" zoomable=true alt="Internship at the NRC" caption="National Research Council Canada" %}
+        {% include figure.html path="assets/img/gallery/NRC_intern.JPG" class="img-fluid z-depth-1" zoomable=true alt="Internship at the NRC" caption="National Research Council Canada" %}
     </div>
 </div>
