@@ -81,7 +81,7 @@ nav_order: 2
 
 <div class="row mt-3 gallery-row-equal">
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gallery/NEURIPS_group.JPG" class="img-fluid z-depth-1" zoomable=true alt="Fav group at EPFL" caption="EPFL" %}
+        {% include figure.html path="assets/img/gallery/NEURIPS_group.JPG" class="img-fluid z-depth-1" zoomable=true alt="Fav group at EPFL" caption="Fav group during my exchange EPFL" %}
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gallery/NRC_intern.JPG" class="img-fluid z-depth-1" zoomable=true alt="Internship at the NRC" caption="With Professor Bellinger during my NRC internship" %}
