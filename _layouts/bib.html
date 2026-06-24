@@ -3,7 +3,7 @@
 <!-- _layouts/bib.html -->
       <div class="row">
         {%- if site.enable_publication_thumbnails -%}
-        <div class="col-sm-3 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+        <div class="col-sm-4 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
@@ -30,7 +30,7 @@
         {%- endif -%}
 
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-9{% else %}col-sm-10{% endif %}">
+        <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         <!-- Author -->
@@ -167,8 +167,12 @@
           {%- if entry.blog %}
             <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
           {%- endif %}
-          {%- if entry.code %}
-            <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+          {%- if entry.code or entry.github %}
+            {%- assign code_url = entry.code | default: entry.github -%}
+            <a href="{{ code_url }}" class="btn btn-sm z-depth-0" role="button">{%- if entry.github or code_url contains 'github.com' -%}<i class="fa-brands fa-github fa-sm"></i> {% endif %}Code</a>
+          {%- endif %}
+          {%- if entry.demo %}
+            <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
