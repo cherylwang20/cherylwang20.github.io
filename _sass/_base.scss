@@ -649,7 +649,7 @@ footer.sticky-bottom {
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
-    margin-bottom: -2rem;
+    margin-bottom: 1rem;
     text-align: right;
   }
 
@@ -663,8 +663,8 @@ footer.sticky-bottom {
 
       .preview {
         width: 100%;
-        min-width: 160px;
-        max-width: 340px;
+        min-width: 220px;
+        max-width: 440px;
       }
 
       .abbr {
@@ -795,6 +795,15 @@ footer.sticky-bottom {
         border-color: var(--global-text-color);
       }
     }
+  }
+}
+
+.publications.publications-wide {
+  @media (min-width: 768px) {
+    width: 92vw;
+    max-width: 1200px;
+    margin-left: 50%;
+    transform: translateX(-50%);
   }
 }
 
