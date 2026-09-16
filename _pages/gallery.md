@@ -12,8 +12,7 @@ nav_order: 2
   .gallery-hero figure { margin-bottom: 0.35rem; }
   .gallery-hero img {
     width: 100%;
-    height: min(72vh, 640px);
-    object-fit: cover;
+    height: auto;
     border-radius: 0.25rem;
   }
   .gallery-row-equal figure { margin-bottom: 0.35rem; }
