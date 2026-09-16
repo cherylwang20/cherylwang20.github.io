@@ -12,7 +12,7 @@ nav_order: 2
   .gallery-hero figure { margin-bottom: 0.35rem; }
   .gallery-hero img {
     width: 100%;
-    max-height: min(72vh, 640px);
+    height: min(72vh, 640px);
     object-fit: cover;
     border-radius: 0.25rem;
   }
@@ -38,6 +38,12 @@ nav_order: 2
 
 
 ## Group pictures
+
+<div class="row mt-3 gallery-hero">
+    <div class="col-12">
+        {% include figure.html path="assets/img/gallery/Guillaume_Durandau_group.PNG" class="img-fluid z-depth-1" zoomable=true alt="Guillaume Durandau's research group" caption="Gulilaume Durandau's group" %}
+    </div>
+</div>
 
 <div class="row mt-3 gallery-hero">
     <div class="col-12">
