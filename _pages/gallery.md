@@ -93,3 +93,9 @@ nav_order: 2
         {% include figure.html path="assets/img/gallery/NRC_intern.JPG" class="img-fluid z-depth-1" zoomable=true alt="Internship at the NRC" caption="With Professor Bellinger during my NRC internship" %}
     </div>
 </div>
+
+<div class="row mt-3 gallery-row-equal">
+    <div class="col-md-6 mx-auto">
+        {% include figure.html path="assets/img/gallery/NV-SH_internship.jpg" class="img-fluid z-depth-1" zoomable=true alt="Internship at NV-SH" caption="@NV-SH" %}
+    </div>
+</div>
