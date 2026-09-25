@@ -63,6 +63,14 @@ nav_order: 2
     </div>
 </div>
 
+### NeurIPS - 2023
+
+<div class="row mt-2 gallery-row-equal">
+    <div class="col-md-6 mx-auto">
+        {% include figure.html path="assets/img/gallery/NEURIPS_2023.jpg" class="img-fluid z-depth-1" zoomable=true alt="MyoChallenge group at NeurIPS 2023" caption="MyoChallenge at NeurIPS 2023" %}
+    </div>
+</div>
+
 ### ICORR
 
 <div class="row mt-2 gallery-row-equal">
